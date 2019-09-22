@@ -320,7 +320,7 @@ void findloop( int *arr, int V)
     printf("%d\n",smallest);
 }
 
-// Driver program for the algorithm
+// Driver program for the algorithm to find the least length
 int main() 
 { 
    // create the graph given in above fugure 
